@@ -3,7 +3,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Add a nice global font */
 body {
   font-family: 'Arial', sans-serif;
 }
